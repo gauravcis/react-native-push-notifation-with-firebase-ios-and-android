@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1010931813029",
+    "project_id": "prmassisttrypush",
+    "storage_bucket": "prmassisttrypush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010931813029:android:22cc13c506b6b96ae1db4c",
+        "android_client_info": {
+          "package_name": "com.prmassistapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010931813029-jj9qj1dngre549il4he3os2h6iao4rp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0tkD1ExCda8hNJWuTtR8IaKL5Uuyc3Ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010931813029-jj9qj1dngre549il4he3os2h6iao4rp6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1010931813029-q9tqhspdb4lif5nptm01d920gf70kuch.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.prmassistApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
